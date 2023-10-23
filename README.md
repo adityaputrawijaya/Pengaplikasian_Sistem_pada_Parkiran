@@ -4,9 +4,13 @@
 
 ### 1. Permasalahan
 Dalam mengelola suatu bisnis parkiran sepeda motor atau layanan publik, ada beberapa permasalahan umum yang terjadi, antara lain adalah antrian panjang saat proses pembayaran parkir, kekeliruan kendaraan, pemantauan kendaraan yang belum sempurna dan waktu tunggu yang cukup lama saat pegawai parkir memberikan kartu parkiran kepada pengendara. Analisis mendalam terhadap aspek-aspek berikut penting untuk meningkatkan efisiensi, kepuasan pengendara, serta meningkatkan kualitas suatu parkiran.
+
 A. Antrian Panjang pembayaran : Antrian yang panjang saat pembayaran sering kali menjadi penyebab kurang nyamannya  pengendara dan menurunkan kualitas layanan parkiran. Hal ini bisa disebabkan oleh faktor seperti parkiran belum menggunakan mesin kasir untuk pembayaran, dan hanya mengandalkan satu pegawai untuk pembayaran saat pengendara pulang bersamaan yang mengakibatkan antrian yang panjang.
+
 B.Kekeliruan Kendaraan : Pegawai parkiran sering kali keliru saat pengendara memarkirkan kendaraanya yang disebabkan oleh para pegawai parkiran yang masih menggunakan pengingatan untuk mengingat jam masuk kendaraan pengendara saat jam pulang kendaraan, serta banyaknya pengendara yang lupa konfirmasi jam pulang kepada pegawai parkiran dan telat saat ingin mengambil kendaraanya.
+
 C. Pemantauan Kendaraan Belum sempurna : Parkiran belum belum menggunakan Kamera digital untuk mengecek kendaraan yang masuk dan keluar, yang mengakibatkan proses yang cukup lama saat pengendara kehilangan kartu parkirnya.
+
 D. Waktu Tunggu Saat Memberikan Kartu Parkir : Para pegawai parkiran yang hanya menggunakan cara manual saat memberikan kartu kepada pengendara, hal inilah yang menyebabkan menumpuknya pengendara saat menunggu pegawai parkiran memberikan kartu secara satu persatu kepada pengendara saat datang ke parkiran secara bersamaan. Waktu tunggu yang berkepanjangan tidak hanya mengganggu pelanggan tetapi juga membuang waktu berharga mereka.
 
 ### 2.	Solusi Permasalahan
