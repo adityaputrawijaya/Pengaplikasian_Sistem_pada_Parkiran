@@ -82,7 +82,7 @@ B.	Kebutuhan Sistemnya
 
 - Pengendara Keluar
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/57aad6a4-5267-4e48-9119-6dcde45396fc)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e47eb007-6d7d-4082-b888-a3c9a4b1b148)
 
 
 
