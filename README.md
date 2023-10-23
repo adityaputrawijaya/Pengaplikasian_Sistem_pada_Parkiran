@@ -80,6 +80,21 @@ B.	Kebutuhan Sistemnya
 ![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/424d0ad7-b3f1-4476-9619-59ac0e2a430b)
 
 
+- Pengendara Keluar
+
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/57aad6a4-5267-4e48-9119-6dcde45396fc)
+
+
+
+## 6. Class Diagram
+
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/654d3ad4-45fd-4f32-98ec-c461268d7205)
+
+
+
+
+
+
 
 
 
