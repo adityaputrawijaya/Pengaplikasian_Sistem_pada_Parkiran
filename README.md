@@ -50,26 +50,21 @@ B.	Kebutuhan Sistemnya
 
 - Pengendara Keluar Parkiran
   
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/d4650383-0f96-40f8-8b9d-ecc39aee3206)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/8eedc1a8-d493-45f7-9f46-db382d640a1c)
 
-
-
-- Admin Keluar Parkiran
-  
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e6292d23-5775-458c-9894-e56469c0b82a)
 
 
 ## 4.	Activity Diagram
 
 - Pengendara Masuk Parkiran
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/d22d79ec-c746-4395-b88f-ce05bc5b3c72)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/15fa519c-7adc-4e25-9efc-705dafc7f56a)
 
 
 
 - Pengendara Keluar Parkiran
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/046f1c11-5bb2-4729-b443-438f302af34e)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e11b3f40-ce6e-4b03-825a-e454a13cfc83)
 
 
 
@@ -77,12 +72,13 @@ B.	Kebutuhan Sistemnya
 
 - Pengendara Masuk
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/424d0ad7-b3f1-4476-9619-59ac0e2a430b)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/3737a49b-a02f-4b6a-b260-5cc489503969)
+
 
 
 - Pengendara Keluar
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e47eb007-6d7d-4082-b888-a3c9a4b1b148)
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/98e4d5c9-271a-49b0-ba9c-68c15425d36a)
 
 
 
