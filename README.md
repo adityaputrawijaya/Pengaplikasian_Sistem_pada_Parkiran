@@ -59,5 +59,22 @@ B.	Kebutuhan Sistemnya
 ![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e6292d23-5775-458c-9894-e56469c0b82a)
 
 
+## 4.	Activity Diagram
+
+- Pengendara Masuk Parkiran
+
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/5aea338a-0927-44b2-b5e2-36bbefcf0123)
+
+
+- Pengendara Keluar Parkiran
+
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e413c566-6a74-4578-b82a-374367649d3e)
+
+
+## 5. Sequence Diagram
+
+- Pengendara Masuk
+
+
 
 
