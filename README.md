@@ -47,14 +47,14 @@ B.	Kebutuhan Sistemnya
 
 3.	UseCase Diagram
 
-
 •	Masuk Parkiran
-
+![Use Case Parkiran masuk pengguna](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/ac22e588-7062-4546-a27f-6f1206a1c55c)
  
 
 
 
 •	Keluar Parkiran
+![Use Case Parkiran keluar pengendara baru](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/4af048f4-ca82-4308-b335-4c9f2b405630)
 
 
  
@@ -64,32 +64,14 @@ B.	Kebutuhan Sistemnya
 
 
 •	Sistem Masuk Parkiran
+![Activity Masuk Parkiran ](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/51deb2a6-d3f3-48a6-9d6a-10bb7eaeef39)
 
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
 
 •	Sistem Keluar Parkiran
-
-
-
- 
-
-
-
-
+![Activity Keluar Parkiran Sesuai](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/b8b33b59-eca6-45a6-ad44-a08f449bcd06)
 
 
 
@@ -97,61 +79,20 @@ B.	Kebutuhan Sistemnya
 5.	Sequace Diagram
 
 
-
 •	Sistem Masuk Parkiran
-
-
-
-
- 
-
-
-
-
-
-
-
-
+![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/bfb9ad8f-99bb-49c4-861c-5c250de79882)
 
 
 
 •	Sistem Keluar Parkiran
-
-
-
-
- 
-
-
-
-
-
-
-
-
+![Sequence Keluar Parkiran sesuai](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/6bb17b7a-6e8b-4e81-b9bb-418af13e4300)
 
 
 
 
 
 6.	Class Diagram Parkiran
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+![Diagram Class Parkiran new](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/02523f13-d371-4028-b353-67e64f57174d)
 
 
 
@@ -159,26 +100,8 @@ B.	Kebutuhan Sistemnya
 
 7.	Development Diagram 
 
-
-
 Sistem Parkiran Sepeda Motor
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Diagram Development parkiran](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/a025a6d3-4cc2-43f6-8634-dff095455099)
 
 
 
