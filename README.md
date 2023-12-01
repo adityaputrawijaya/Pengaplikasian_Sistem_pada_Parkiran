@@ -1,19 +1,22 @@
-# Pengaplikasian Sistem pada Parkiran Umum
+## Penggunaan Sistem Pada Parkiran Sepeda Motor
 
-## A.	Analisis Sistem
+A.	Analisis Sistem
 
-### 1. Permasalahan
- Dalam mengelola suatu bisnis parkiran sepeda motor atau layanan publik, ada beberapa permasalahan umum yang terjadi, antara lain adalah antrian panjang saat proses pembayaran parkir, kekeliruan kendaraan, pemantauan kendaraan yang belum sempurna dan waktu tunggu yang cukup lama saat pegawai parkir memberikan kartu parkiran kepada pengendara. Analisis mendalam terhadap aspek-aspek berikut penting untuk meningkatkan efisiensi, kepuasan pengendara, serta meningkatkan kualitas suatu parkiran.
+1.	Permasalahan
+Dalam mengelola suatu bisnis parkiran sepeda motor atau layanan publik, ada beberapa permasalahan umum yang terjadi, antara lain adalah antrian panjang saat proses pembayaran parkir, kekeliruan kendaraan, pemantauan kendaraan yang belum sempurna dan waktu tunggu yang cukup lama saat pegawai parkir memberikan kartu parkiran kepada pengendara. Analisis mendalam terhadap aspek-aspek berikut penting untuk meningkatkan efisiensi, kepuasan pengendara, serta meningkatkan kualitas suatu parkiran.
+A.	Antrian Panjang pembayaran
+Antrian yang panjang saat pembayaran sering kali menjadi penyebab kurang nyamannya  pengendara dan menurunkan kualitas layanan parkiran. Hal ini bisa disebabkan oleh faktor seperti parkiran belum menggunakan mesin kasir untuk pembayaran, dan hanya mengandalkan satu pegawai untuk pembayaran saat pengendara pulang bersamaan yang mengakibatkan antrian yang panjang.
+B.	Kekeliruan Kendaraan 
+Pegawai parkiran sering kali keliru saat pengendara memarkirkan kendaraanya yang disebabkan oleh para pegawai parkiran yang masih menggunakan pengingatan untuk mengingat jam masuk kendaraan pengendara saat jam pulang kendaraan, serta banyaknya pengendara yang lupa konfirmasi jam pulang kepada pegawai parkiran dan telat saat ingin mengambil kendaraanya.
+C.	Pemantauan Kendaraan Belum sempurna
+Parkiran belum belum menggunakan Kamera digital untuk mengecek kendaraan yang masuk dan keluar, yang mengakibatkan proses yang cukup lama saat pengendara kehilangan kartu parkirnya.
+D.	Waktu Tunggu Saat Memberikan Kartu Parkir
+Para pegawai parkiran yang hanya menggunakan cara manual saat memberikan kartu kepada pengendara, hal inilah yang menyebabkan menumpuknya pengendara saat menunggu pegawai parkiran memberikan kartu secara satu persatu kepada pengendara saat datang ke parkiran secara bersamaan. Waktu tunggu yang berkepanjangan tidak hanya mengganggu pelanggan tetapi juga membuang waktu berharga mereka.
 
-A. Antrian Panjang pembayaran : Antrian yang panjang saat pembayaran sering kali menjadi penyebab kurang nyamannya  pengendara dan menurunkan kualitas layanan parkiran. Hal ini bisa disebabkan oleh faktor seperti parkiran belum menggunakan mesin kasir untuk pembayaran, dan hanya mengandalkan satu pegawai untuk pembayaran saat pengendara pulang bersamaan yang mengakibatkan antrian yang panjang.
 
-B.Kekeliruan Kendaraan : Pegawai parkiran sering kali keliru saat pengendara memarkirkan kendaraanya yang disebabkan oleh para pegawai parkiran yang masih menggunakan pengingatan untuk mengingat jam masuk kendaraan pengendara saat jam pulang kendaraan, serta banyaknya pengendara yang lupa konfirmasi jam pulang kepada pegawai parkiran dan telat saat ingin mengambil kendaraanya.
 
-C. Pemantauan Kendaraan Belum sempurna : Parkiran belum belum menggunakan Kamera digital untuk mengecek kendaraan yang masuk dan keluar, yang mengakibatkan proses yang cukup lama saat pengendara kehilangan kartu parkirnya.
 
-D. Waktu Tunggu Saat Memberikan Kartu Parkir : Para pegawai parkiran yang hanya menggunakan cara manual saat memberikan kartu kepada pengendara, hal inilah yang menyebabkan menumpuknya pengendara saat menunggu pegawai parkiran memberikan kartu secara satu persatu kepada pengendara saat datang ke parkiran secara bersamaan. Waktu tunggu yang berkepanjangan tidak hanya mengganggu pelanggan tetapi juga membuang waktu berharga mereka.
-
-### 2.	Solusi Permasalahan
+2.	Solusi Permasalahan
 A.	Optimalkan Sistem Antrian
       Implementasikan sistem pembayaran parkir yang efisien dengan teknologi seperti mesin kasir dan PC untuk mengurangi waktu tunggu pengendara saat pembayaran agar lebih cepat dan efisien, serta Evaluasi kebutuhan operasional secara berkala dan sesuaikan kapasitas sumber daya manusia, peralatan, dan infrastruktur parkiran untuk mengatasi lonjakan pengendara yang parkir.
 
@@ -40,51 +43,185 @@ B.	Kebutuhan Sistemnya
 10. Kemudahan Pemeliharaan: Pastikan sistem dirancang agar pemeliharaan rutin dan pemecahan masalah menjadi lebih mudah.
 
 
-## 3.	UseCase Diagram
-
-•	Pengendara Masuk Parkiran 
-
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e5daecfe-a56d-4d6a-a654-ef3d7bb9b085)
 
 
+3.	UseCase Diagram
 
-- Pengendara Keluar Parkiran
-  
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/8eedc1a8-d493-45f7-9f46-db382d640a1c)
+
+•	Masuk Parkiran
+
+ 
 
 
 
-## 4.	Activity Diagram
-
-- Pengendara Masuk Parkiran
-
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/15fa519c-7adc-4e25-9efc-705dafc7f56a)
+•	Keluar Parkiran
 
 
+ 
 
-- Pengendara Keluar Parkiran
-
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/e11b3f40-ce6e-4b03-825a-e454a13cfc83)
+4.	Activity Diagram
 
 
 
-## 5. Sequence Diagram
-
-- Pengendara Masuk
-
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/3737a49b-a02f-4b6a-b260-5cc489503969)
+•	Sistem Masuk Parkiran
 
 
 
-- Pengendara Keluar
-
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/98e4d5c9-271a-49b0-ba9c-68c15425d36a)
+ 
 
 
 
-## 6. Class Diagram
 
-![image](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/654d3ad4-45fd-4f32-98ec-c461268d7205)
+
+
+
+
+
+
+
+
+
+•	Sistem Keluar Parkiran
+
+
+
+ 
+
+
+
+
+
+
+
+
+5.	Sequace Diagram
+
+
+
+•	Sistem Masuk Parkiran
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+•	Sistem Keluar Parkiran
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.	Class Diagram Parkiran
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.	Development Diagram 
+
+
+
+Sistem Parkiran Sepeda Motor
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.	Data Model
+
+
+Sistem Parkiran sepeda Motor
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+9.	Desain UI/IX
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
