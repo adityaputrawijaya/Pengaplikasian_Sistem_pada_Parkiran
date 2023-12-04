@@ -1,10 +1,10 @@
 ## Penggunaan Sistem Pada Parkiran Sepeda Motor
 
-### Saat Masuk
+### Tampilan Masuk
 ![Screenshot (7)](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/acab49b9-95ff-471f-bb2d-1f1df5a33285)
 
 
-### Saat Keluar 
+### Tampilan Keluar 
 ![Screenshot (8)](https://github.com/adityaputrawijaya/Pengaplikasian_Sistem_pada_Parkiran/assets/115687055/bc229249-f80d-4841-8352-2f51d0dea660)
 
 
